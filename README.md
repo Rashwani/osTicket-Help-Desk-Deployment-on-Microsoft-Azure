@@ -41,6 +41,7 @@ MySQL Database
 ### VM Configuration
 
 Provisioned a `Standard_B1s` VM (1 vCPU, 1 GB RAM) running Ubuntu 22.04 LTS, free tier eligible.
+<img width="1911" height="874" alt="Screenshot 2026-03-06 135708" src="https://github.com/user-attachments/assets/197598f3-d62c-4c18-b45a-c06cde79f9c7" />
 
 ### Network Security Group (NSG) Rules
 
