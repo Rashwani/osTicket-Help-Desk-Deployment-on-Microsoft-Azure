@@ -22,7 +22,6 @@ I built this project to reflect how a real IT support environment works. I set u
 
 ## Architecture
 
-
 <img width="1408" height="768" alt="Gemini_Generated_Image_5u26cf5u26cf5u26" src="https://github.com/user-attachments/assets/417c6da1-b7c8-4d9e-b0c7-d4bae161895d" />
 
 
